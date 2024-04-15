@@ -6,7 +6,15 @@ package_names = {
     "com.miui.videoplayer": "Mi Video",
     "com.mi.globalbrowser": "Mi Browser",
     "com.xiaomi.glgm": "Xiaomi Game Center",
-    "com.android.mms": "Xiaomi SMS app"
+    "com.android.mms": "Xiaomi SMS app",
+    "com.google.android.apps.subscriptions.red": "Google 1",
+    "com.google.android.apps.youtube.music": "YT Music",
+    "com.xiaomi.mipicks": "GetApps",
+    "com.miui.gallery": "Gallery",
+    "com.miui.miservice": "Services & Feedback",
+    "com.mi.android.globalFileexplorer": "File Manager",
+    "com.mi.globalminusscreen": "App Vault",
+    "com.android.chrome": "Chrome"
 }
 
 def check_adb_exists():
