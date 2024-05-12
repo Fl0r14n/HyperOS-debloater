@@ -14,7 +14,8 @@ package_names = {
     "com.miui.miservice": "Services & Feedback",
     "com.mi.android.globalFileexplorer": "File Manager",
     "com.mi.globalminusscreen": "App Vault",
-    "com.android.chrome": "Chrome"
+    "com.android.chrome": "Chrome",
+    "com.google.android.youtube": "Youtube"
 }
 
 def check_adb_exists():
