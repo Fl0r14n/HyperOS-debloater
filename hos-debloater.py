@@ -14,10 +14,11 @@ package_names = {
     "com.miui.miservice": "Services & Feedback",
     "com.mi.android.globalFileexplorer": "File Manager",
     "com.mi.globalminusscreen": "App Vault",
-    "com.miui.securitycenter": "Security",
+    # "com.miui.securitycenter": "Security",
     "com.android.chrome": "Chrome",
     "com.google.android.youtube": "Youtube",
-    "com.google.android.apps.docs": "Drive"
+    "com.google.android.apps.docs": "Drive",
+    "com.google.android.calendar": "Calendar",
 }
 
 def check_adb_exists():
@@ -63,7 +64,7 @@ try:
         exit()    
 
     for package_id in package_names:
-        uninstall_app(package_id)
+            uninstall_app(package_id)
 
     input("Finished! Press Enter to exit...")
     exit()
