@@ -6,22 +6,23 @@ package_names = {
     "com.miui.videoplayer": "Mi Video",
     "com.mi.globalbrowser": "Mi Browser",
     "com.xiaomi.glgm": "Xiaomi Game Center",
-    "com.android.mms": "Xiaomi SMS app",
-    "com.google.android.apps.subscriptions.red": "Google 1",
-    "com.google.android.apps.youtube.music": "YT Music",
+    "com.android.mms": "Xiaomi SMS app",    
     "com.xiaomi.mipicks": "GetApps",
     "com.miui.gallery": "Gallery",
     "com.miui.miservice": "Services & Feedback",
     "com.mi.android.globalFileexplorer": "File Manager",
     "com.mi.globalminusscreen": "App Vault",
     # "com.miui.securitycenter": "Security",
-    "com.android.chrome": "Chrome",
+    "com.google.android.apps.subscriptions.red": "Google 1",
     "com.google.android.youtube": "Youtube",
-    "com.google.android.apps.docs": "Drive",
-    "com.google.android.calendar": "Calendar",
-    "com.google.android.documentsui": "Files",
-    "com.google.android.apps.tachyon": "Google Duo",
-    "com.google.android.apps.kids.home": "Kids Space"
+    "com.google.android.apps.youtube.music": "YT Music",
+    "com.android.chrome": "Chrome",
+    #"com.google.android.apps.docs": "Drive",
+    #"com.google.android.calendar": "Calendar",
+    #"com.google.android.documentsui": "Files",
+    #"com.google.android.apps.tachyon": "Google Duo",
+    "com.google.android.apps.kids.home": "Kids Space",
+    "com.google.android.apps.mediahome.launcher": "Entertainment space"
 }
 
 def check_adb_exists():
