@@ -21,6 +21,7 @@ package_names = {
     "com.google.android.calendar": "Calendar",
     "com.google.android.documentsui": "Files",
     "com.google.android.apps.tachyon": "Google Duo",
+    "com.google.android.apps.kids.home": "Kids Space"
 }
 
 def check_adb_exists():
